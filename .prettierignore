@@ -1,0 +1,8 @@
+node_modules
+.next
+pnpm-lock.yaml
+PRD.md
+auth.md
+public/fonts
+test-results
+.env*
